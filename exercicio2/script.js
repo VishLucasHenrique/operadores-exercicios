@@ -9,4 +9,4 @@ console.log("Seu primeiro número é", primeiroNumero, "e o segundo número é",
 console.log("O primeiro número é maior que o segundo?", primeiroNumero > segundoNumero)
 console.log("O primeiro número é igual ao segundo?", primeiroNumero === segundoNumero)
 console.log("O primeiro numero é divisível pelo segundo numero?", divisao1 === 0)
-console.log("O segundo número é divisil pelo primeiro?", divisao2 === 0)
+console.log("O segundo número é divisível pelo primeiro?", divisao2 === 0)
